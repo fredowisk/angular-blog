@@ -1,0 +1,6 @@
+.articles__container {
+  padding-top: 30px;
+
+  display: flex;
+  justify-content: center;
+}

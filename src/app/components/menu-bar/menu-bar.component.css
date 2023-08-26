@@ -1,0 +1,13 @@
+.menu-bar__container {
+  padding-block: 10px;
+}
+
+.menu-bar__container > ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.menu-bar__container > ul > li {
+  margin-right: 20px;
+}
